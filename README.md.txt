@@ -4,7 +4,8 @@ This sample rod was designed to allow magnetic resonance experiments and simulat
 
 All in all the holder works quite nicely. It positions the sample quite accurately in the cavity's center, is leak tight, does not show performance degradation or extraordinary large heat conductions at low temperatures (liquid Helium). Empty cavity measurements vs. sample holder in cavity measurements have been performed and will be added here for reference when the results are polished. A gear can be fitted to the top rod and the whole rod can be rotated automatically (http://hannes.maier-flaig.de/goniometer/)
 
-**Please note:** Initial design documents were in German and some elements will probably have slipped through when translating to english (read: _all_ drawings). Units are exclusively metric. 3D models of of-shelf ISO-KF flange parts (as available from the vendors web site) are included in the project. No copyright infrigement intended.
+**Please note:** Initial design documents were in German and some elements will probably have slipped through when translating to english (read: _all_ drawings). Units are exclusively metric. 
+**Licence:** The holder design is licensed under the CERN Open Hardware License v1.2. 3D models of of-shelf ISO-KF flange parts (as available from the vendors web site) are included in the project and do not fall under the license (CERN OHL v1.2) of the whole project. Copyright as far as applicable remains with the manufacturer (see below).
 
 
 ## Pictures and performance
